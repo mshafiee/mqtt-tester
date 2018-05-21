@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MQTT Tester</string>
+    <string name="tab_text_1">Chat</string>
+    <string name="tab_text_2">Message</string>
+    <string name="tab_text_3">Log</string>
+    <string name="tab_text_4">Setting</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Section: %1$d</string>
+</resources>
